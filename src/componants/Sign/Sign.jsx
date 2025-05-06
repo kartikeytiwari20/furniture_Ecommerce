@@ -490,7 +490,7 @@ if (firstName !== "" && Email !== "" && Email.includes("@")) {
           onChange={(eo) => { setCountry(eo.target.value);
           }}
         >
-          <MenuItem value="Egypt">Egypt</MenuItem>
+          <MenuItem value="India">India</MenuItem>
           <MenuItem value="Canada">Canada</MenuItem>
           <MenuItem value="Brazil">Brazil</MenuItem>
           <MenuItem value="United State">United State</MenuItem>

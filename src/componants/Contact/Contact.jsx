@@ -47,16 +47,18 @@ const Contact = () => {
     <IconButton sx={{bgcolor : "#AC8C5B"}} >
         <LocalPhoneIcon sx={{color : "white"}}/>
     </IconButton>
-    <Typography variant='h6' fontSize="14px" >+201111111111</Typography>
-    <Typography variant='h6' fontSize="14px" >+201222222222</Typography>
+    <Typography variant='h6' fontSize="14px" >+91-706 066 6728</Typography>
+    <Typography variant='h6' fontSize="14px" >+91 821 848 8994</Typography>
+    <Typography variant='h6' fontSize="14px" >+91 761 858 7790</Typography>
 
 </Box>
 <Box sx={{ width : "40%" , my : "10px" , color : "gray"}}>
     <IconButton sx={{bgcolor : "#AC8C5B"}} >
         <EmailIcon sx={{color : "white"}}/>
     </IconButton>
-    <Typography variant='h6' fontSize="14px" >info@mydomain.com</Typography>
-    <Typography variant='h6' fontSize="14px" >info@mydomain.com</Typography>
+    <Typography variant='h6' fontSize="14px" >kartiekytiwari0227@gmail.com</Typography>
+    <Typography variant='h6' fontSize="14px" >yashjain2222@gmail.com</Typography>
+    <Typography variant='h6' fontSize="14px" >vivekchauhan4343@gmail.com</Typography>
 
 </Box>     
             </Box>
@@ -65,8 +67,9 @@ const Contact = () => {
     <IconButton sx={{bgcolor : "#AC8C5B"}} >
         <LocationOnIcon sx={{color : "white"}}/>
     </IconButton>
-    <Typography variant='h6' fontSize="14px" >New York City, United States</Typography>
-    <Typography variant='h6' fontSize="14px" >Egypt, Alexanderia</Typography>
+    <Typography variant='h6' fontSize="14px" >Moradabad, Uttar Pradesh, India</Typography>
+    <Typography variant='h6' fontSize="14px" >Meerut, Uttar Pradesh, India</Typography>
+    <Typography variant='h6' fontSize="14px" >Dhampur, Uttar Pradesh, India</Typography>
 
 </Box>
 <Box sx={{width : "40%" , my : "10px"}}>
